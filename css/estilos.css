@@ -14,3 +14,17 @@ body {
 h1 {
     font-size: 20px;
 }
+
+.cabecera {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.cabecera span {
+    font-size: .7em;
+    color: #cccccc;
+}
