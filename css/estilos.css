@@ -1,5 +1,16 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+    color:#646464;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    border: 1px solid black;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 20px;
 }
